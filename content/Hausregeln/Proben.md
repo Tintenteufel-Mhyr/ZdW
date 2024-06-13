@@ -16,6 +16,7 @@ Ist nur eins gegeben:
 1:6 oder automatischer Misserfolg
 
 Eine passende Klasse: +1
-Ein passendes Attribut 
-über 14: +1
-unter 7: -1
+
+Ein passendes Attribut über 14: +1
+
+Ein passendes Attribut unter 7: -1
