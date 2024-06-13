@@ -1,4 +1,4 @@
 ---
 share: "true"
 ---
-Die Tochter von [Shaeznar] und [Taran].
+Die Tochter von [[Shaeznar|Shaeznar]] und [[Taran|Taran]].
