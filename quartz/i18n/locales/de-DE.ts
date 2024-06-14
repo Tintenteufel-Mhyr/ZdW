@@ -22,21 +22,21 @@ export default {
       quote: "Zitat",
     },
     backlinks: {
-      title: "Backlinks",
-      noBacklinksFound: "Keine Backlinks gefunden",
+      title: "Rückverweise",
+      noBacklinksFound: "Keine Rückverweise gefunden",
     },
     themeToggle: {
       lightMode: "Light Mode",
       darkMode: "Dark Mode",
     },
     explorer: {
-      title: "Explorer",
+      title: "Erkundung",
     },
     footer: {
       createdWith: "Erstellt mit",
     },
     graph: {
-      title: "Graphansicht",
+      title: "Netzwerk",
     },
     recentNotes: {
       title: "Zuletzt bearbeitete Seiten",
