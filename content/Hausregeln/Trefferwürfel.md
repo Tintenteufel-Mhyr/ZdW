@@ -19,12 +19,19 @@ Eine vier Wochen lange Rast stellt alle TW eines SC wieder her.
 **Magische Heilung**
 
 Gestaltwandel (DRU): ?
+
 Meisterung des Körpers (MÖN): ?
+
 Hand auflegen (PAL): ?
+
 Leichte Wunden heilen: 1 TW
+
 Schwere Wunden heilen: 2 TW
+
 Heiltrank: 1 TW
+
 Starker Heiltrank: 1W3 TW
+
 Stecken der Heilung: 1 TW pro Ladung
 
 (Eine Hausregel inspiriert durch *HIT DICE ARE MEANT TO BE ROLLED* von Eric Nieudan, erschienen in *Knock!* #1.)
