@@ -20,3 +20,5 @@ Eine passende Klasse: +1
 Ein passendes Attribut über 14: +1
 
 Ein passendes Attribut unter 7: -1
+
+(Eine Hausregel inspiriert durch *Time, Gear & Skill* von Lars Huijbregts, erschienen in *Knock!* #4.)
