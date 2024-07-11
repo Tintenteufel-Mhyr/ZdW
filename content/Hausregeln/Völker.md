@@ -9,4 +9,4 @@ Menschen erhalten dafür +1 auf alle RW.
 
 Menschenähnliche (Elf:innen, Zwerg:innen usw.) behalten alle ihre Fähigkeiten, bis auf Dunkelsicht.
 
-(Eine Hausregel inspiriert durch das *Shadowdark RPG* von Kelsey Dionne, heraudgegeben durch *The Arcane Library*.)
+(Eine Hausregel inspiriert durch das *Shadowdark RPG* von Kelsey Dionne, herausgegeben durch *The Arcane Library*.)
