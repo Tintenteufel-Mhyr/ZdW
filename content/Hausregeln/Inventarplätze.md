@@ -25,6 +25,7 @@ Die meisten anderen Gegenstände belegen 1 IP; zweihändige Waffen 2 IP; kleine 
 | Munition     | 20      |
 | Rationen     | 5       |
 | Zaubertränke | 5       |
+
 Solche Gegenstände müssen dann in einem Behältnis (Beutel, Köcher, Rucksack usw.) transportiert werden.
 
 Eine weitere Ausnahme bilden Rüstungen:
@@ -35,6 +36,7 @@ Eine weitere Ausnahme bilden Rüstungen:
 | Brünne        | 2   |
 | Kettenhemd    | 4   |
 | Plattenpanzer | 8   |
+
 Magische Rüstungen belegen nur die Hälfte an Inventarplätzen (Lederpanzer 0).
 
 Zusätzlich belegte Inventarplätze modifizieren die Bewegungsrate.
@@ -46,4 +48,5 @@ Zusätzlich belegte Inventarplätze modifizieren die Bewegungsrate.
 | +2  | 6    |
 | +3  | 3    |
 | +4  | 0    |
+
 (Eine Hausregel inspiriert durch *Knave* von Ben Milton und das *Shadowdark RPG* von Kelsey Dionne, herausgegeben durch *The Arcane Library*.)
