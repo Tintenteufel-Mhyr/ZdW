@@ -13,7 +13,8 @@ Jeder Charakter verfügt über 10 Inventarplätze. Dieser Grundwert wird durch S
 | 16      | +3              |
 | 17      | +4              |
 | 18      | +5              |
-Bekleidung belegt keinen Inventarplatz. Die meisten anderen Gegenstände belegen einen Inventarplatz; zweihändige Waffen zwei Inventarplätze; kleine Gegenstände wiederum keinen Inventarplatz oder nur im Verbund einen. 
+Bekleidung belegt keinen Inventarplatz. 
+Die meisten anderen Gegenstände belegen einen Inventarplatz; zweihändige Waffen zwei Inventarplätze; kleine Gegenstände wiederum keinen Inventarplatz oder nur im Verbund einen.
 
 | Gegenstände  | Verbund |
 | ------------ | ------- |
@@ -23,8 +24,9 @@ Bekleidung belegt keinen Inventarplatz. Die meisten anderen Gegenstände belegen
 | Munition     | 20      |
 | Rationen     | 5       |
 | Zaubertränke | 5       |
+Solche Gegenstände müssen dann in einem Behältnis (Beutel, Köcher, Rucksack usw.) transportiert werden.
 
-Die Ausnahme bilden Rüstungen:
+Eine weitere Ausnahme bilden Rüstungen:
 
 | Rüstung       | Inventarplätze |
 | ------------- | -------------- |
