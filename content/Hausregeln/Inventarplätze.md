@@ -17,15 +17,15 @@ Jeder Charakter verfügt über 10 Inventarplätze (IP). Dieser Grundwert wird du
 Bekleidung belegt keinen IP. 
 Die meisten anderen Gegenstände belegen 1 IP; zweihändige Waffen 2 IP; kleine Gegenstände wiederum 0 IP und nur im Verbund 1 IP.
 
-| Gegenstände  | Verbund |
-| ------------ | ------- |
-| Edelsteine   | 20      |
-| Fackeln      | 5       |
-| Münzen       | 500     |
-| Munition     | 20      |
-| Rationen     | 5       |
-| Zaubertränke | 5       |
-
+| Gegenstände     | Verbund |
+| --------------- | ------- |
+| Edelsteine      | 20      |
+| Fackeln         | 5       |
+| Münzen          | 500     |
+| Munition        | 20      |
+| Lampenöl (0,5l) | 2       |
+| Rationen        | 5       |
+| Zaubertränke    | 5       |
 Solche Gegenstände müssen dann in einem Behältnis (Beutel, Köcher, Rucksack usw.) transportiert werden.
 
 Eine weitere Ausnahme bilden Rüstungen:
