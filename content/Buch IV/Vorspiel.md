@@ -1,10 +1,6 @@
 ---
 share: "true"
 ---
-**Königreich Eralion, See Nivian**
-**an einem der letzten Tage des Biestes**
-**im Jahr 1508 nach Bahamut**
-
 "Die anderen warten auf dich in [[Königshafen|Königshafen]]", wurde dir in [[Leira|Leira]] gesagt. Nun befindest du dich bereits auf der Überfahrt dorthin. Du überquerst den [[Nivian|Nivian]], den größten See von [[Eralion|Eralion]], an Bord der Karavelle *Einhorn*. 
 
 Das große Segelschiff gehört der Händlerin Sakharina, die Seife, Parfüm und kostbare Öle aus [[Marisa|Marisa]] vom Südufer des Nivian in die Ostmark verkauft. Die entgeltliche Mitnahme von Passagieren ist dabei nur ein kleiner Nebenverdienst. So ist es auch nur eine Handvoll von Reisenden, mit denen du auf einer Seifenkiste dein bescheidenes Mittagsmahl teilst.
