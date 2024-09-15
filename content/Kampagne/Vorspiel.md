@@ -7,15 +7,15 @@ Das große Segelschiff gehört der Händlerin Sakharina, die Seife, Parfüm und 
 
 Neben dir stehen eine Frau und ein Mann. Beide wirken wehrhaft. Sie hat dunkle Haut, steckt in einem Kettenhemd und trägt auf dem Rücken ein Schwert. Ihr Name ist [[Ardinis|Ardinis]].
 
-![[Ardinis.jpg|Ardinis.jpg]]
+![[Ardinis 1.jpg|Ardinis 1.jpg]]
 
 Er trägt unter einem löchrigen, ehemals weißen Umhang einen schmutzigen Ringpanzer und ist mit einem Streitkolben bewaffnet. Sein Name ist [[Ulryk|Ulryk]].
 
-![[Ulryk.jpg|Ulryk.jpg]]
+![[Ulryk 1.jpg|Ulryk 1.jpg]]
 
-In eurer Mitte, auf dem behelfsmäßigen Tisch, sitzt eine Halbling namens [[Mirabella|Mirabella]]. Während sie isst, gleitet ihr rechter Zeigefinger über eine [[Landkarte|Landkarte]], die ausgebreitet auf der Seifenkiste liegt.
+In eurer Mitte, auf dem behelfsmäßigen Tisch, sitzt eine Halbling namens [[Mirabella Hügelkappe|Mirabella Hügelkappe]]. Während sie isst, gleitet ihr rechter Zeigefinger über eine [[Landkarte|Landkarte]], die ausgebreitet auf der Seifenkiste liegt.
 
-![[Mirabella.jpg|Mirabella.jpg]]
+![[Mirabella 1.jpg|Mirabella 1.jpg]]
 
 Auf der anderen Seite der Kiste steht auch noch eine weitere Gestalt, die du hinter den anderen jedoch nicht genauer erkennen kannst.
 
