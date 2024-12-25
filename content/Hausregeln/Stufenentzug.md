@@ -9,7 +9,7 @@ Untote verursachen keinen Stufenentzug, sondern Attributsschaden.
 | Schatten        | 1W6         | Stärke       |
 | Schreckgespenst | 2W4         | Konstitution |
 | Todesalb        | 1W6         | Konstitution |
-| Vampir          | 2W4         | Konstitution |
+| [[Vampir|Vampir]]      | 2W4         | Konstitution |
 | niedere Untote  | 1W6         | Konstitution |
 | höhere Untote   | 2W4         | Konstitution |
 
