@@ -5,8 +5,7 @@ TW werden gewürfelt! Und zwar jedes Mal, wenn ein SC getroffen wird; nicht nur 
 
 Der erlittene Schaden muss dabei "aufgesaugt" werden. Reicht der gewürfelte TW (durch KO modifiziert) nicht aus, muss ein weiterer gewürfelt werden. Steht kein weiterer TW mehr zur Verfügung, verliert der SC das Bewusstsein.
 
-Er gilt dann für 1 TW (durch KO modifiziert) 
-als sterbend und kann nur durch eine erfolgreiche [[Probe|Probe]] stabilisiert werden. Im Kampf muss diese Probe unter Zeitdruck durchgeführt werden.
+Er gilt dann für 1 TW (durch KO modifiziert) als sterbend und kann nur durch eine erfolgreiche [[Probe|Probe]] stabilisiert werden. Im Kampf muss diese Probe unter Zeitdruck durchgeführt werden.
 
 Jedwede magische Heilung von TP stabilisiert sterbende SC ebenfalls.
 

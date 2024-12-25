@@ -3,8 +3,8 @@ share: "true"
 ---
 SC brauchen drei Dinge um bei Proben erfolgreich zu sein:
 1. Fertigkeit / Wissen
-2. Ausrüstung / Werkzeug 
-3. Zeit
+2. Ausrüstung / [[Werkzeug|Werkzeug]] 
+3. Zeit / Stress
 
 Ist alles drei erfüllt:
 automatischer Erfolg oder 5:6

@@ -9,7 +9,7 @@ Jeder Charakter verfügt über 10 Inventarplätze (IP). Dieser Grundwert wird du
 | 5-6     | -1  |
 | 7-9     | +0  |
 | 10-12   | +1  |
-| 13      | +2  |
+| 13-15   | +2  |
 | 16      | +3  |
 | 17      | +4  |
 | 18      | +5  |
