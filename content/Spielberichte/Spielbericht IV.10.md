@@ -29,19 +29,19 @@ share: "true"
 
 *Stattdessen hielt Pius dem Untoten das heilige Symbol Lumaenors entgegen und versuchte ihn durch die inbrünstige Anrufung seines Gottes zu vertreiben. Der Zombie schenkte jedoch auch dem Kleriker keinerlei Beachtung. Er starrte schlichtweg weiter in den Silberspiegel, bis der Glaubensmann seinen Zweihänder zog und ihm das verfluchte Ding damit aus den gräulichen Händen riss.*
 
-*Plötzlich sprang der Untote auf und schlug dem jungen Glaubensmann seine Arme wie Dreschflegel gegen Kopf. Pius taumelte. Nerea tastete blindlings nach dem Spiegel und warf ihn dem Zombie zu. Das funkelnde Ding prallte jedoch angefangen an dem stumpfen Angreifer ab.*
+*Plötzlich sprang der Untote auf und schlug dem jungen Glaubensmann seine Arme wie Dreschflegel gegen Kopf. Pius taumelte. Nerea tastete blindlings nach dem Spiegel und warf ihn dem Zombie zu. Das funkelnde Ding prallte jedoch ungefangen an dem stumpfen Angreifer ab.*
 
 *Es war an Cato den Spiegel aufzuheben, ohne ihn dabei zu betrachten. Sogleich fesselte er damit die Aufmerksamkeit des Untoten. Nun hatten Nerea und Helga leichtes Spiel ihre Speere in die Schöpfung der Schwarzen Göttin zu treiben. Vernichtet fiel der Zombie auf den Waldboden.*
 
 *Schließlich warf Cato sein schmutziges Taschentuch über den Spiegel und steckte ihn ein. Unterdessen besahen sich die anderen den leblosen Körper. Er steckte in einem grauen Waffenrock mit dem schwarz-blauen Schild und Fisch von Haus Forkys auf der Brust.*
  
-*Um seinen Hals hing ein wertvolles Silbergeschmeide, in dessen Anhänger ein dunkelbrauner Edelstein eingelassen war. Cato gab vor sich solchen Dingen auszukennen und ließ das Geschmeide vorsichtshalber in seinem Beutel verschwinden.
+*Um seinen Hals hing ein wertvolles Silbergeschmeide, in dessen Anhänger ein dunkelbrauner Edelstein eingelassen war. Cato gab vor, sich mit solchen Dingen auszukennen und ließ das Geschmeide vorsichtshalber in seinem Beutel verschwinden.*
  
-*Der Schmuck und das Wappen sprachen dafür, dass es sich bei dem Toten mit hoher Wahrscheinlichkeit um ein höher gestelltes Mitglied von Haus Forkys handelte. Davon ungeachtet, dass er bereits untot war, haftete nun sein Blut an den Waffen der Kirschensammler:innen, die sich obendrein seiner Wartgegenstände bemächtigt hatten. Möge Solani selbst ihre schützende Hand über sie halten, sollten sie den Orks des Barons erneut begegnen!* [^*] 
+*Der Schmuck und das Wappen sprachen dafür, dass es sich bei dem Toten mit hoher Wahrscheinlichkeit um ein höher gestelltes Mitglied von Haus Forkys handelte. Davon ungeachtet, dass er bereits untot war, haftete nun sein Blut an den Waffen der Kirschensammler:innen, die sich obendrein seiner Wertgegenstände bemächtigt hatten. Möge Solani selbst ihre schützende Hand über sie halten, sollten sie den Orks des Barons erneut begegnen!* [^*] 
  
 *Unter der Führung von Nerea drang die Gruppe tiefer in den Shalunha vor.*
  
-*Am frühen Abend, im feurigen Licht einer sterbenden Sonne, erreichten die Kirschensammler:innen ein Hügelgrab im Wald. Die Bäume um die Erhebung waren allesamt tot; ihre blattlosen Äste hielten den grünen Sommerwald auf Abstand wie ein stinkender Burggraben feindliche Heerscharen.
+*Am frühen Abend, im feurigen Licht einer sterbenden Sonne, erreichten die Kirschensammler:innen ein Hügelgrab im Wald. Die Bäume um die Erhebung waren allesamt tot; ihre blattlosen Äste hielten den grünen Sommerwald auf Abstand wie ein stinkender Burggraben feindliche Heerscharen.*
  
 *Aus dem Eingang des Grabmals wucherten Schattenkirschen. Cato, Joran, Pius und Nerea beschlossen hineinzugehen. Mirabella hielt sich mit den Mietlingen Magda, Helga und Torun zunächst zurück.*
 
