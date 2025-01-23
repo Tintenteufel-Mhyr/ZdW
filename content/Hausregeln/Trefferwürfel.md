@@ -21,7 +21,8 @@ Gestaltwandel (DRU): ?
 
 Meisterung des Körpers (MÖN): ?
 
-Hand auflegen (PAL): ?
+*Hand auflegen* (PAL) wird durch 
+*Aura des Lichts* ersetzt, die alle in 3m Abstand um Paladin:innen einen Bonus von +1 auf den TW im Fall von Schaden verleiht.
 
 Leichte Wunden heilen: 1 TW
 
