@@ -1,5 +1,6 @@
 ---
 share: "true"
+aliases: 
 ---
 TW werden gewürfelt! Und zwar jedes Mal, wenn ein SC getroffen wird; nicht nur einmalig bei Stufenaufstieg.
 
