@@ -27,11 +27,13 @@ Nach einer Weile wurde auch Joran zurück gebracht. In Fesseln! Der Paladin war 
 
 Arvid bekam die Aufgabe Joran zu bewachen, Ratimir wurde von seinem Herren Lothar in den Grabhügel abkommandiert.
 
+
+
 Es war bereits stockfinstere Nacht, als die abgekämpften Grabräuber:innen zurückkehrten.
 
 Sie erzählten ihren Gefährten von einem Raum voller aufgespießter Totenschädel, die einen dicken Teppich aus ölig-schwarzen Schlangen auf den Boden gespuckt hatten, von einer Kammer die in eisblaues Licht aus einem weiteren Schädel getaucht worden war und von einem Gruftschrecken.
 
-X
+![[IMG_20250124_095335.jpg|IMG_20250124_095335.jpg]]
 
 Der Untote war offenbar seinem Sarkophag entstiegen, auf dem vor langer Zeit ein düsteres Ritual vollzogen worden war. 
 Wer hatte die Ruhe des Toten gestört? Oder war die Beschwörung sogar Teil der ursprünglichen Bestattung? [^*]
@@ -43,6 +45,8 @@ Kurz nach dem Fund war es Lothar und Nerea nur durch die magische Streitaxt und 
 Die Erlebnisse im Inneren des Hügels hatten heftig an der Lebenskraft der Sterblichen gezerrt und so ließen sich Cato, Lothar, Nerea und Ratimir zwar reicher, aber schwer stöhnend im Nachtlager der Gruppe nieder.
 
 Da schlug Pius wissbegierig die Augen auf und befragte die Geplagten zu ihrem Leidwesen noch stundenlang, bis selbst Joran sein wirres Tun aufgab und wieder über einen klaren Geist verfügte.
+
+![[IMG_20250123_125207.jpg|IMG_20250123_125207.jpg]]
 
 Doch der Paladin wusste einen weiteren Bericht abzugeben, denn er hatte in dem verfluchten Spiegel nicht sich selbst, sondern eine schlanke Elfe mit kantigen sowie vollkommen ebenmäßigen Gesichtszügen gesehen. Sie hatte goldenes Haar und trug salbeifarbene Seidengewänder. Hinter der Edeldame war ein schlanker Turm zwischen prächtigen Baumkronen zu erkennen, wie es sie nur im Shalunha gibt.
 
