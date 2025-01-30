@@ -29,6 +29,7 @@ Die Bewegungsrate wird wie folgt durch das Gelände modifiziert:
 | Hügel   | -3   |
 | See     | -6   |
 | Sumpf   | -6   |
+| Wald    | -3   |
 | Wüste   | -3   |
 
 Straßen ermöglichen den Einsatz von Fahrzeugen.
