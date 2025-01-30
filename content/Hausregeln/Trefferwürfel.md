@@ -1,5 +1,6 @@
 ---
 share: "true"
+aliases: 
 ---
 TW werden gewürfelt! Und zwar jedes Mal, wenn ein SC getroffen wird; nicht nur einmalig bei Stufenaufstieg.
 
@@ -21,8 +22,8 @@ Gestaltwandel (DRU): ?
 
 Meisterung des Körpers (MÖN): ?
 
-*Hand auflegen* (PAL) wird durch 
-*Aura des Lichts* ersetzt, die alle in 3m Abstand um Paladin:innen einen Bonus von +1 auf den TW im Fall von Schaden verleiht.
+*Hand auflegen* (PAL) wird durch *Aura des Lichts* ersetzt, die alle in 3m Abstand um Paladin:innen einen Bonus von +1 auf den TW im Fall von Schaden verleiht.
+*Aura des Lichts* ersetzt, die allen in 3m Abstand um Paladin:innen einen Bonus von +1 auf den TW im Fall von Schaden verleiht.
 
 Leichte Wunden heilen: 1 TW
 
