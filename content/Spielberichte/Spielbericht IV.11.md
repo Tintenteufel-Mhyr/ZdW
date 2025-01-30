@@ -27,7 +27,7 @@ Nach einer Weile wurde auch Joran zurück gebracht. In Fesseln! Der Paladin war 
 
 Arvid bekam die Aufgabe Joran zu bewachen, Ratimir wurde von seinem Herren Lothar in den Grabhügel abkommandiert.
 
-
+![[Pasted image 20250130114459.jpg|Pasted image 20250130114459.jpg]]
 
 Es war bereits stockfinstere Nacht, als die abgekämpften Grabräuber:innen zurückkehrten.
 
