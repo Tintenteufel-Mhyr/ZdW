@@ -1,7 +1,7 @@
 ---
 share: "true"
 ---
-**Tar, 9. Tag des Engels 1508 n. B.**
+**Tar, 9. Tag des Engels 1508 n. B. - BERICHT I**
  
 Noch am Nachmittag des 8.8.1508, wollten die fünf Männer mit der Elfe um unsere Agentin Mirabella Hügelkappe nach Westen aufbrechen. Als sie sich an den Abstieg von der Klippe des Sonnenturms machten, erreichte eine Gruppe von Holzknechten die Grüne Halle. Lothar vom Pappelwald hörte sich noch an, weshalb sie Vorsteherin Theodora aufsuchten. Die bärtigen Kerle klagten über die zunehmenden Angriffe des Eulenbären und so beschloss der Waldläufer kurzerhand sich mit seinen Mietlingen dem Monster anzunehmen.
  

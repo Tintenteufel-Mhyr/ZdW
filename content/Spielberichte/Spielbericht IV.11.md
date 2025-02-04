@@ -1,6 +1,8 @@
 ---
 share: "true"
 ---
+**Tar, 9. Tag des Engels 1508 n. B. - BERICHT II**
+
 Als Cato, Joran und Nerea gerade das Hügelgrab betreten wollten, wurden Stimmen im Wald laut. Mirabella, Helga, Magda und Torun hörten sogar, wie sich eine kleine Gruppe ihren Weg durch das Unterholz bahnte. Nur Pius war noch immer vollkommen im Gebet zu Lumaenor versunken und schien die Gefahr überhaupt nicht zu bemerken.
 
 Die Hände der Frauen im Lager suchten ihre Waffen. Unsere Agentin vermutete, dass die Orks des Barons sie gefunden hatten und machte sich für einen erbitterten Kampf bereit.
@@ -27,7 +29,7 @@ Nach einer Weile wurde auch Joran zurück gebracht. In Fesseln! Der Paladin war 
 
 Arvid bekam die Aufgabe Joran zu bewachen, Ratimir wurde von seinem Herren Lothar in den Grabhügel abkommandiert.
 
-![[Pasted image 20250130114459.jpg|Pasted image 20250130114459.jpg]]
+![[Ratimir.jpg|Ratimir.jpg]]
 
 Es war bereits stockfinstere Nacht, als die abgekämpften Grabräuber:innen zurückkehrten.
 

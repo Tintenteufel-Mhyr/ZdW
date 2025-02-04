@@ -7,7 +7,9 @@ Die 24 Stunden eines Tagesablaufs auf der Hexfeldkarte werden in 6 Wachen von je
 2. Erkunden
 3. Rasten
 
-**Reisen**
+Die Gruppe ist entweder in einem Hexfeld, oder nicht. Die genaue Position innerhalb des Hexfeldes wird dabei abstrahiert und ist zunächst irrelevant.
+
+**1. Reisen**
 Wandern in der Wildnis:
 
 | **G-BW** | **Meilen pro Wache** | Km pro Wache |
@@ -34,17 +36,18 @@ Die Bewegungsrate wird wie folgt durch das Gelände modifiziert:
 
 Straßen ermöglichen den Einsatz von Fahrzeugen.
 
-**Erkunden**
+**2. Erkunden**
 Wachen des Erkundens können nur in Verbindung mit Wachen des Reisens durchgeführt werden und gelten auch ausschließlich für die dabei durchquerten Hexfelder. Erkunden deckt alle verborgenen Abenteuerschauplätze der Felder auf.
 
-**Rasten**
+**3. Rasten**
+...
+
+**Verirren**
+Die Probe auf Verirren (GRW S. 120) wird beim Verlassen des Hexfeldes durchgeführt, mit der entsprechenden Wahrscheinlichkeit und nicht mit der des Zielfeldes.
+
+**Wetter**
 ...
 
 **Zufallsbegegnungen** 
 1 pro Tag (1:6)
 1 pro Nacht (1:6)
-
-**Wetter**
-...
-
-Die Gruppe ist entweder in einem Hexfeld, oder nicht. Die genaue Position innerhalb des Hexfeldes wird dabei abstrahiert und ist zunächst irrelevant.
