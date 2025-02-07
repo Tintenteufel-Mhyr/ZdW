@@ -39,6 +39,6 @@ share: "true"
 
 *— Wendelin, Stadtschreiber und hoher Herold von Peredur*
 
-[^*] *Da die Machtgruppe in den Herzlanden nicht sehr weit verbreitet ist, habe ich Erkundigungen über den Orden der Weißen Faust eingeholt. Es handelt sich um einen militanten Bund von Kleriker:innen, Paladin:innen und Ritter:innen die die Mächte des Lichts verehren und gnadenlos gegen Finsternis vorgehen. Sie erheben die Weiße Göttin ganz klar über Lumaenor, Nymia und Taran. Der Orden ist insbesondere in der Südmark und im Grenzgebiet zu Marisa tatkräftig.*
+[^*]: *Da die Machtgruppe in den Herzlanden nicht sehr weit verbreitet ist, habe ich Erkundigungen über den Orden der Weißen Faust eingeholt. Es handelt sich um einen militanten Bund von Kleriker:innen, Paladin:innen und Ritter:innen die die Mächte des Lichts verehren und gnadenlos gegen Finsternis vorgehen. Sie erheben die Weiße Göttin ganz klar über Lumaenor, Nymia und Taran. Der Orden ist insbesondere in der Südmark und im Grenzgebiet zu Marisa tatkräftig.*
 
-[^**] *Ich werde bei der hiesigen Priesterschaft Nymias Erkundigungen über jene düsteren Früchte einholen. Die Vorsteherin der Grünen Halle erwähnte, dass "der Meister" die Kirschen für die Herstellung eines Zaubertrank es benötigte.*
+[^**]: *Ich werde bei der hiesigen Priesterschaft Nymias Erkundigungen über jene düsteren Früchte einholen. Die Vorsteherin der Grünen Halle erwähnte, dass "der Meister" die Kirschen für die Herstellung eines Zaubertrank es benötigte.*
