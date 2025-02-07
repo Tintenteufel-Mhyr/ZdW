@@ -18,3 +18,16 @@ Spezialgebiete:
 4. Dimensionen
 
 Er merkt, dass sich sein Leben dem Ende neigt und arbeitet an einem Ritual, das ihn in einen untoten Leichnam verwandelt.
+
+Zauber der Solthurim:
+2 Kontakt zu anderen Ebenen
+3 Fluch brechen
+4 Hellhören
+5 Dauerhaftes Licht
+6 Magie lesen
+7 Explosive Runen
+8 Sprachen verstehen
+9 Dunkelheit (4,5 m Umkreis)
+10 Hellsehen
+11 Magisches Auge
+12 Sagenkunde
